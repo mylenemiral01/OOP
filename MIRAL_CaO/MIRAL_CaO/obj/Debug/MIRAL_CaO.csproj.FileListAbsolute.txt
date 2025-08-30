@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\bin\Debug\MIRAL_CaO.exe.config
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\bin\Debug\MIRAL_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\bin\Debug\MIRAL_CaO.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\obj\Debug\MIRAL_CaO.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\obj\Debug\MIRAL_CaO.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\obj\Debug\MIRAL_CaO.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\obj\Debug\MIRAL_CaO.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_CaO\MIRAL_CaO\obj\Debug\MIRAL_CaO.exe.config
