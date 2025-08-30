@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\bin\Debug\MIRAL_MyClassAndObjects.exe.config
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\bin\Debug\MIRAL_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\bin\Debug\MIRAL_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\obj\Debug\MIRAL_MyClassAndObjects.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\obj\Debug\MIRAL_MyClassAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\obj\Debug\MIRAL_MyClassAndObjects.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\obj\Debug\MIRAL_MyClassAndObjects.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_MyClassAndObjects\MIRAL_MyClassAndObjects\obj\Debug\MIRAL_MyClassAndObjects.exe.config
