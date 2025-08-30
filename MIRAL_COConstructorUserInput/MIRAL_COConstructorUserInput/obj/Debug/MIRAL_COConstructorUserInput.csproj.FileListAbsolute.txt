@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\bin\Debug\MIRAL_COConstructorUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\bin\Debug\MIRAL_COConstructorUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\bin\Debug\MIRAL_COConstructorUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\obj\Debug\MIRAL_COConstructorUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\obj\Debug\MIRAL_COConstructorUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\obj\Debug\MIRAL_COConstructorUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\obj\Debug\MIRAL_COConstructorUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_COConstructorUserInput\MIRAL_COConstructorUserInput\obj\Debug\MIRAL_COConstructorUserInput.exe.config
