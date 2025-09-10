@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\obj\Debug\MIRAL_Inheritancewithuserinput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\obj\Debug\MIRAL_Inheritancewithuserinput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\bin\Debug\MIRAL_Inheritancewithuserinput.exe.config
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\bin\Debug\MIRAL_Inheritancewithuserinput.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\bin\Debug\MIRAL_Inheritancewithuserinput.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\obj\Debug\MIRAL_Inheritancewithuserinput.exe
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\obj\Debug\MIRAL_Inheritancewithuserinput.pdb
+C:\Users\ACT-STUDENT\Desktop\MIRAL_Inheritancewithuserinput\MIRAL_Inheritancewithuserinput\obj\Debug\MIRAL_Inheritancewithuserinput.exe.config
