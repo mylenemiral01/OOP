@@ -1,0 +1,7 @@
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\bin\Debug\MIRAL_Inheritanceuserinput.exe.config
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\bin\Debug\MIRAL_Inheritanceuserinput.exe
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\bin\Debug\MIRAL_Inheritanceuserinput.pdb
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\obj\Debug\MIRAL_Inheritanceuserinput.csproj.AssemblyReference.cache
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\obj\Debug\MIRAL_Inheritanceuserinput.csproj.CoreCompileInputs.cache
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\obj\Debug\MIRAL_Inheritanceuserinput.exe
+C:\Users\Mylene\OneDrive\Desktop\MIRAL_Inheritanceuserinput\MIRAL_Inheritanceuserinput\obj\Debug\MIRAL_Inheritanceuserinput.pdb
